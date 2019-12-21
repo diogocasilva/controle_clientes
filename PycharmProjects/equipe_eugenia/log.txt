@@ -1,0 +1,46 @@
+20/12/2019 19:24:37 - Realizada a busca por listagem completa:
+20/12/2019 19:25:54 - Realizada a busca por listagem completa:
+20/12/2019 19:30:48 - Realizada a busca por listagem completa:
+20/12/2019 19:35:25 - Realizada a busca por listagem completa:
+20/12/2019 19:45:08 - Realizada a busca por listagem completa:
+20/12/2019 19:51:46 - Realizada a busca por listagem completa:
+20/12/2019 19:52:21 - Conta paga, obigrado por comprar com a gente
+20/12/2019 19:52:45 - Conta paga, obigrado por comprar com a gente
+20/12/2019 19:53:19 - Conta paga, obigrado por comprar com a gente
+20/12/2019 19:53:39 - Conta paga, obigrado por comprar com a gente
+20/12/2019 19:53:58 - Realizada a busca por listagem completa:
+20/12/2019 19:54:04 - Conta paga, obigrado por comprar com a gente
+20/12/2019 19:54:23 - Realizada a busca por listagem completa:
+20/12/2019 19:54:24 - Realizada a busca por listagem completa:
+20/12/2019 19:54:49 - cliente maria cadastrado
+20/12/2019 19:56:17 - Realizada a busca por listagem completa:
+20/12/2019 19:56:56 - Realizada a busca por listagem completa:
+20/12/2019 19:57:19 - Realizada a busca por listagem completa:
+20/12/2019 19:58:38 - Realizada a busca por listagem completa:
+20/12/2019 20:00:15 - Realizada a busca por listagem completa:
+20/12/2019 20:19:31 - Busca pelo 12345678910 realizada com sucesso
+20/12/2019 20:19:46 - Conta paga, obigrado por comprar com a gente
+20/12/2019 20:21:01 - Realizada a busca por listagem completa:
+20/12/2019 20:21:08 - cliente maris cadastrado
+20/12/2019 20:21:42 - Realizada a busca por listagem completa:
+20/12/2019 20:27:22 - Conta paga, obigrado por comprar com a gente
+20/12/2019 20:33:58 - cliente maria cadastrado
+20/12/2019 20:39:11 - cliente DIOGO cadastrado
+20/12/2019 20:40:10 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:42:26 - Busca pelo 12345678911 realizada com sucesso
+20/12/2019 20:42:59 - Busca pelo 12345678911 realizada com sucesso
+20/12/2019 20:43:24 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:43:48 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:47:01 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:47:30 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:48:04 - Busca pelo 12345678911 realizada com sucesso
+20/12/2019 20:49:02 - Busca pelo 12345678911 realizada com sucesso
+20/12/2019 20:49:29 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:50:06 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:52:48 - Busca pelo DIOGO realizada com sucesso
+20/12/2019 20:58:18 - cliente mm cadastrado
+20/12/2019 20:58:59 - Busca pelo 258525 realizada com sucesso
+20/12/2019 21:00:33 - Busca pelo maria realizada com sucesso
+20/12/2019 21:00:47 - Cliente alterado com sucesso
+20/12/2019 21:01:45 - Conta paga, obigrado por comprar com a gente
+20/12/2019 21:02:14 - Conta paga, obigrado por comprar com a gente
